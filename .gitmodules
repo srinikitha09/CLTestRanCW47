@@ -1,4 +1,4 @@
 [submodule "mock-srv"]
 	path = mock-srv
 	url = ../../SAP-samples/cloud-extension-ecc-business-process
-	branch = test
+	branch = mock
