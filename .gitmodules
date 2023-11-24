@@ -1,4 +1,4 @@
 [submodule "mock-srv"]
 	path = mock-srv
-	url = ../cap-bookshop-wdi5.git
-	branch = main
+	url = ./
+	branch = test
