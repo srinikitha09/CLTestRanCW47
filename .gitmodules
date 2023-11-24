@@ -1,7 +1,3 @@
-[submodule "mock-srv"]
-	path = mock-srv
-	url = ../../SAP-samples/cloud-extension-ecc-business-process
-	branch = mock
 [submodule "mock-srv1"]
 	path = mock-srv1
 	url = ../../SAP-samples/cloud-extension-ecc-business-process
